@@ -1,0 +1,9 @@
+{
+  "name": "node-lab-vezba3",
+  "version": "0.0.0",
+  "description": "NodeLabVezba3",
+  "main": "app.js",
+  "author": {
+    "name": "Filip"
+  }
+}

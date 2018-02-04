@@ -1,0 +1,10 @@
+{
+  "name": "zadatak2",
+  "version": "0.0.0",
+  "description": "zadatak2",
+  "main": "app.js",
+  "author": {
+    "name": "Filip"
+  },
+  "dependencies": {}
+}
