@@ -7,6 +7,8 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "zadatak1", "NodeLabVezba3\z
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "zadatak2", "zadatak2\zadatak2.njsproj", "{50152911-67F9-423F-AC46-9AC148C10D74}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "zadatak3", "zadatak3\zadatak3.njsproj", "{B25487AE-B2FE-4BAA-8B10-1FEF94680023}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{50152911-67F9-423F-AC46-9AC148C10D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50152911-67F9-423F-AC46-9AC148C10D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50152911-67F9-423F-AC46-9AC148C10D74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B25487AE-B2FE-4BAA-8B10-1FEF94680023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25487AE-B2FE-4BAA-8B10-1FEF94680023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B25487AE-B2FE-4BAA-8B10-1FEF94680023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B25487AE-B2FE-4BAA-8B10-1FEF94680023}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
